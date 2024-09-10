@@ -25,7 +25,7 @@ This project is a simple web application that aggregates and displays the latest
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/darkweb-digest.git
+   git clone https://github.com/manohar1404/DarkWeb-Digest.git
    cd darkweb-digest
    ```
 
