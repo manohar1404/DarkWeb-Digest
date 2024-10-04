@@ -39,7 +39,7 @@ This project is a simple web application that aggregates and displays the latest
 
 3. **Run the Flask app**
    ```bash
-   arkweb-digest.py
+   darkweb-digest.py
    ```
 
 4. **Access the application**
@@ -49,7 +49,7 @@ This project is a simple web application that aggregates and displays the latest
 
 ```
 .
-├── arkweb-digest.py     # Main Flask application
+├── darkweb-digest.py     # Main Flask application
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 ```
